@@ -16,6 +16,7 @@ import com.qualcomm.robotcore.hardware.IMU;
 import com.qualcomm.robotcore.util.Range;
 
 // Cayden Was here
+// Cayden was hier in deutschland aber kein hier
 
 @Autonomous(name="AutoMode (Score Specimen)", group="Linear OpMode")
 public class Auto_Score_Specimen_Middle extends LinearOpMode {
